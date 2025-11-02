@@ -1,0 +1,10 @@
+streamlit
+audio-recorder-streamlit
+numpy
+pandas
+scikit-learn
+joblib
+librosa
+soundfile
+pydub
+tsfel
